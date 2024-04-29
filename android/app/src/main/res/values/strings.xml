@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">milo</string>
-    <string name="title_activity_main">milo</string>
+    <string name="app_name">Pettown</string>
+    <string name="title_activity_main">Pettown</string>
     <string name="package_name">de.joinmilo</string>
     <string name="custom_url_scheme">de.joinmilo</string>
 </resources>
